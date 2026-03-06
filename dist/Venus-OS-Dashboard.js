@@ -183,8 +183,9 @@ customElements.define('venus-os-dashboard', venusOsDashboardCard);
 
 window.customCards = window.customCards || [];
 window.customCards.push({
-  type: 'venus-os-dashboard',
-  name: 'Venus OS Dashboard',
+  type: 'venus-os-dashboard-luuuis',
+  name: 'Venus OS Dashboard (@luuuis)',
   preview: true,
   description: 'A DashBoard that looklike Venos OS gui-v2 from Victron.',
 });
+
