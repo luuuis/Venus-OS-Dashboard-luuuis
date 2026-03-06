@@ -179,7 +179,7 @@ class venusOsDashboardCard extends HTMLElement {
   }
 
 }
-customElements.define('venus-os-dashboard', venusOsDashboardCard);
+customElements.define('venus-os-dashboard-luuuis', venusOsDashboardCard);
 
 window.customCards = window.customCards || [];
 window.customCards.push({
