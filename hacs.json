@@ -1,6 +1,7 @@
 {
-  "name": "Venus OS Dashboard",
+  "name": "Venus OS Dashboard (@luuuis)",
   "homeassistant": "2023.9",
   "render_readme": true,
   "content_in_root": false
+
 }
